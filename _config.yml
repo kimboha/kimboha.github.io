@@ -1,11 +1,11 @@
 ### Site Settings ###
-title               : test gitHub pages title
+title               : "가볍게 시작한 개발 블로그"
 description         : >-                               # >- means to ignore newlines until "url:"
-                      Test description.
+                      2019.10.01 가볍게 시작해봅시다!
 
 url                 : "https://kimboha.github.io"      # base hostname & protocol for your site (e.g. http://example.com)
 baseurl             : ""                    	       # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
-repository          : YoussefRaafatNasry/portfolYOU    # repository metadata on GitHub Pages [know more at https://help.github.com/en/articles/repository-metadata-on-github-pages]
+repository          : kimboha/kimboha.github.io        # repository metadata on GitHub Pages [know more at https://help.github.com/en/articles/repository-metadata-on-github-pages]
 remote_theme        : YoussefRaafatNasry/portfolYOU    # uncomment this if you are using it as a remote theme
 
 ### Author Info ###
