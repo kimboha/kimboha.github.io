@@ -1,10 +1,10 @@
-- name: HTML5/CSS3
+- name: JAVA
   percentage: 90
   color: danger
 
-- name: Go
-  percentage: 80
-  color:
+- name: C#
+  percentage: 70
+  color: dark
 
 - name: Python
   percentage: 70

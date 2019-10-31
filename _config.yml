@@ -11,10 +11,10 @@ remote_theme        : YoussefRaafatNasry/portfolYOU    # uncomment this if you a
 ### Author Info ###
 author:
   name              : Kim BoHa
-  #image             :
+  image             : https://avatars0.githubusercontent.com/u/12408609
   email             : asabe1201@gmail.com
-  github            : github_your_username
-  linkedin          : linkedin_your_username
+  github            : kimboha
+  linkedin          : boha-kim
 
 
 ### Pagination ###
