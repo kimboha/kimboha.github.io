@@ -30,7 +30,7 @@ paginate_path: "/articles/page-:num/"
 collections:
   projects:
     output: false
-    permalink: /projects/:name
+    permalink: /projects/:kimboha.github.io
 
 
 ### Defaults for collections ###
