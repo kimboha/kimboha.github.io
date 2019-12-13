@@ -8,14 +8,14 @@ description: "Jetbrain Intellij IDE에서 Gradle Project의 Import Options 알�
 
 ---
 
-##Intellij IDE
-Version 2018.2.8
-
+## Intellij IDE
+`Version 2018.2.8`
 
 ![alt text](https://postfiles.pstatic.net/MjAxOTEyMTJfMTMw/MDAxNTc2MTMxODE4OTAz.if4c2whQX7R7fuogsvJc4fvnj-KaWDuarz4gxjX-1YQg.1YCIgLRFKWnaLd_l1hyCLIMtoJg-6pzml0I0s5-_x4gg.PNG.rlaqhgk9412/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2019-12-12_%EC%98%A4%ED%9B%84_3.18.34.png?type=w966 "Intellij Import Project")
 
+{% include elements/highlight.html text="Gradle" %}
+## Import Project > {% include elements/highlight.html text="Gradle" %}
 
-##Import Project > {% Gradle %}
 ![alt text](https://postfiles.pstatic.net/MjAxOTEyMTJfMTk2/MDAxNTc2MTI5NTU4MjQ0.wlhQ3RctozSbV82VDI6DbSfY19lrZoxRKlrxmjN1cNcg.Xz59zGedIOCgWI5S-f7DNZmZTSLqbTO5V78n_D09gckg.PNG.rlaqhgk9412/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2019-12-12_%EC%98%A4%ED%9B%84_2.40.38.png?type=w966 "Intellij Gradle Import")
 
 
